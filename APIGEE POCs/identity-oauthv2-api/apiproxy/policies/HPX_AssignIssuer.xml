@@ -1,0 +1,7 @@
+<AssignMessage enabled="true" continueOnError="false"
+	async="false" name="HPX_AssignIssuer">
+	<AssignVariable>
+		<Name>issuer</Name>
+		<Value>https://onkaar2011-prod.apigee.net/</Value>
+	</AssignVariable>
+</AssignMessage>

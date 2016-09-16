@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Built-By: onkaar_singh
+Class-Path: ca/uhn/hapi/fhir/hapi-fhir-base/1.2/hapi-fhir-base-1.2.jar
+  javax/json/javax.json-api/1.0/javax.json-api-1.0.jar org/glassfish/j
+ avax.json/1.0.4/javax.json-1.0.4.jar org/codehaus/woodstox/woodstox-c
+ ore-asl/4.4.1/woodstox-core-asl-4.4.1.jar javax/xml/stream/stax-api/1
+ .0-2/stax-api-1.0-2.jar org/codehaus/woodstox/stax2-api/3.1.4/stax2-a
+ pi-3.1.4.jar org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3
+ .2.jar commons-codec/commons-codec/1.10/commons-codec-1.10.jar common
+ s-io/commons-io/2.4/commons-io-2.4.jar org/slf4j/slf4j-api/1.7.10/slf
+ 4j-api-1.7.10.jar org/slf4j/jcl-over-slf4j/1.7.10/jcl-over-slf4j-1.7.
+ 10.jar org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.jar or
+ g/apache/httpcomponents/httpcore/4.4/httpcore-4.4.jar ca/uhn/hapi/fhi
+ r/hapi-fhir-structures-dstu2/1.2/hapi-fhir-structures-dstu2-1.2.jar o
+ rg/slf4j/slf4j-log4j12/1.6.6/slf4j-log4j12-1.6.6.jar log4j/log4j/1.2.
+ 17/log4j-1.2.17.jar
+Build-Jdk: 1.8.0_05
+Created-By: Maven Integration for Eclipse
+Main-Class: org.apigee.FhirJsonXmlConv.FhirJsonXmlConv
+

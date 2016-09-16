@@ -1,0 +1,4 @@
+<JavaCallout name="HPX_JwtTokenSigning">
+        <ResourceURL>java://HPX_jsontoken.zip</ResourceURL>
+        <ClassName>com.grass.identity.JwtSign.JWT_Creator</ClassName>
+</JavaCallout>

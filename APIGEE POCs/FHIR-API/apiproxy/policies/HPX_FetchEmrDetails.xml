@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="HPX_FetchEmrDetails" mapIdentifier="emr_profiles">
+    <DisplayName>FetchEmrDetails</DisplayName>
+    <Get assignTo="profileObject">
+        <Key>
+            <Parameter ref="accesstoken.emrprofile"/>
+        </Key>
+    </Get>
+    <Scope>apiproxy</Scope>
+</KeyValueMapOperations>

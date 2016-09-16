@@ -1,0 +1,4 @@
+openemr\patient\PatientList.class
+openemr\patient\Patient.class
+openemr\patient\Demographics.class
+fhir\patient\PatientResource.class

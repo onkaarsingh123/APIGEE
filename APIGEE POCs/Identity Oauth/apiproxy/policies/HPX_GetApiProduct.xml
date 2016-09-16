@@ -1,0 +1,6 @@
+<AccessEntity enabled="true" continueOnError="false" async="false" name="HPX_GetApiProduct">
+    <FaultRules/>
+    <Properties/>
+    <EntityIdentifier ref="apiproduct.name"/>
+    <EntityType  value="apiproduct"/>
+</AccessEntity>

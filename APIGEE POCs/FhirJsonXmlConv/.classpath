@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/*.java" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="var" path="M2_REPO/javax/json/javax.json-api/1.0/javax.json-api-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/ca/uhn/hapi/fhir/hapi-fhir-base/1.2/hapi-fhir-base-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/glassfish/javax.json/1.0.4/javax.json-1.0.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.7.10/jcl-over-slf4j-1.7.10.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.4/httpclient-4.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.4/httpcore-4.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/ca/uhn/hapi/fhir/hapi-fhir-structures-dstu2/1.2/hapi-fhir-structures-dstu2-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-log4j12/1.6.6/slf4j-log4j12-1.6.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core-2.5.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind-2.5.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations-2.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse_Mars_WorkSpace/FhirJsonXmlConv/lib/expressions-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse_Mars_WorkSpace/FhirJsonXmlConv/lib/message-flow-1.0.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
